@@ -1,0 +1,93 @@
+"This is the information of cryptocurrency"
+{"name": "Bitcoin", "symbol": "BTC", "price_dollar": "7,643.0", "market_cap": "$130.24B", "24h_volume": "$4.88B", "total_vol": "28.67%", "change_24h": "+2.68%", "change_7d": "+1.32%"}
+{"name": "Ethereum", "symbol": "ETH", "price_dollar": "588.84", "market_cap": "$58.75B", "24h_volume": "$1.86B", "total_vol": "10.93%", "change_24h": "+3.52%", "change_7d": "-2.17%"}
+{"name": "Ripple", "symbol": "XRP", "price_dollar": "0.64236", "market_cap": "$25.21B", "24h_volume": "$322.58M", "total_vol": "1.90%", "change_24h": "+5.32%", "change_7d": "+3.53%"}
+{"name": "Bitcoin Cash", "symbol": "BCH", "price_dollar": "1,086.08", "market_cap": "$18.66B", "24h_volume": "$660.53M", "total_vol": "3.88%", "change_24h": "+9.29%", "change_7d": "+5.44%"}
+{"name": "EOS", "symbol": "EOS", "price_dollar": "15.0079", "market_cap": "$13.49B", "24h_volume": "$2.27B", "total_vol": "13.37%", "change_24h": "+19.31%", "change_7d": "+19.03%"}
+{"name": "Litecoin", "symbol": "LTC", "price_dollar": "122.48", "market_cap": "$6.96B", "24h_volume": "$305.11M", "total_vol": "1.79%", "change_24h": "+3.20%", "change_7d": "+1.39%"}
+{"name": "Cardano", "symbol": "ADA", "price_dollar": "0.22441", "market_cap": "$5.83B", "24h_volume": "$111.91M", "total_vol": "0.66%", "change_24h": "+2.82%", "change_7d": "+11.39%"}
+{"name": "Stellar", "symbol": "XLM", "price_dollar": "0.29458", "market_cap": "$5.52B", "24h_volume": "$60.57M", "total_vol": "0.36%", "change_24h": "+2.98%", "change_7d": "+2.22%"}
+{"name": "IOTA", "symbol": "MIOTA", "price_dollar": "1.87226", "market_cap": "$5.21B", "24h_volume": "$122.34M", "total_vol": "0.72%", "change_24h": "+1.33%", "change_7d": "+23.15%"}
+{"name": "TRON", "symbol": "TRX", "price_dollar": "0.060955", "market_cap": "$4.02B", "24h_volume": "$306.22M", "total_vol": "1.80%", "change_24h": "+7.52%", "change_7d": "-17.41%"}
+{"name": "NEO", "symbol": "NEO", "price_dollar": "56.385", "market_cap": "$3.66B", "24h_volume": "$100.27M", "total_vol": "0.59%", "change_24h": "+4.77%", "change_7d": "+4.69%"}
+{"name": "Monero", "symbol": "XMR", "price_dollar": "163.10", "market_cap": "$2.63B", "24h_volume": "$35.87M", "total_vol": "0.21%", "change_24h": "+4.26%", "change_7d": "-2.31%"}
+{"name": "Dash", "symbol": "DASH", "price_dollar": "324.37", "market_cap": "$2.62B", "24h_volume": "$84.09M", "total_vol": "0.49%", "change_24h": "+5.23%", "change_7d": "-3.40%"}
+{"name": "Tether", "symbol": "USDT", "price_dollar": "0.99915", "market_cap": "$2.49B", "24h_volume": "$2.94B", "total_vol": "17.26%", "change_24h": "+0.00%", "change_7d": "-0.87%"}
+{"name": "NEM", "symbol": "XEM", "price_dollar": "0.26242", "market_cap": "$2.35B", "24h_volume": "$12.20M", "total_vol": "0.07%", "change_24h": "+4.57%", "change_7d": "-1.31%"}
+{"name": "VeChain", "symbol": "VEN", "price_dollar": "3.6540", "market_cap": "$1.91B", "24h_volume": "$68.38M", "total_vol": "0.40%", "change_24h": "+7.96%", "change_7d": "+0.45%"}
+{"name": "Binance Coin", "symbol": "BNB", "price_dollar": "14.8375", "market_cap": "$1.69B", "24h_volume": "$87.24M", "total_vol": "0.51%", "change_24h": "+6.54%", "change_7d": "+13.79%"}
+{"name": "Ethereum Classic", "symbol": "ETC", "price_dollar": "15.8234", "market_cap": "$1.62B", "24h_volume": "$139.99M", "total_vol": "0.82%", "change_24h": "+3.99%", "change_7d": "+1.68%"}
+{"name": "Qtum", "symbol": "QTUM", "price_dollar": "14.4865", "market_cap": "$1.30B", "24h_volume": "$159.91M", "total_vol": "0.94%", "change_24h": "+6.12%", "change_7d": "+8.40%"}
+{"name": "OmiseGO", "symbol": "OMG", "price_dollar": "11.7086", "market_cap": "$1.19B", "24h_volume": "$76.79M", "total_vol": "0.45%", "change_24h": "+10.27%", "change_7d": "+6.31%"}
+{"name": "Bytecoin", "symbol": "BCN", "price_dollar": "0.006486", "market_cap": "$1.19B", "24h_volume": "$20.53M", "total_vol": "0.12%", "change_24h": "-2.20%", "change_7d": "-3.08%"}
+{"name": "ICON", "symbol": "ICX", "price_dollar": "2.7874", "market_cap": "$1.09B", "24h_volume": "$38.13M", "total_vol": "0.22%", "change_24h": "+4.09%", "change_7d": "+3.96%"}
+{"name": "Zcash", "symbol": "ZEC", "price_dollar": "251.84", "market_cap": "$1.01B", "24h_volume": "$71.19M", "total_vol": "0.42%", "change_24h": "+5.81%", "change_7d": "-10.11%"}
+{"name": "Lisk", "symbol": "LSK", "price_dollar": "9.6681", "market_cap": "$1.00B", "24h_volume": "$20.53M", "total_vol": "0.12%", "change_24h": "+8.61%", "change_7d": "+4.02%"}
+{"name": "Ontology", "symbol": "ONT", "price_dollar": "7.9242", "market_cap": "$945.92M", "24h_volume": "$100.19M", "total_vol": "0.59%", "change_24h": "+12.36%", "change_7d": "+16.49%"}
+{"name": "Zilliqa", "symbol": "ZIL", "price_dollar": "0.11676", "market_cap": "$857.91M", "24h_volume": "$38.63M", "total_vol": "0.23%", "change_24h": "+7.01%", "change_7d": "-4.37%"}
+{"name": "Aeternity", "symbol": "AE", "price_dollar": "3.62044", "market_cap": "$833.85M", "24h_volume": "$18.00M", "total_vol": "0.11%", "change_24h": "+13.80%", "change_7d": "+9.85%"}
+{"name": "Bitcoin Gold", "symbol": "BTG", "price_dollar": "45.310", "market_cap": "$770.85M", "24h_volume": "$14.08M", "total_vol": "0.08%", "change_24h": "+5.07%", "change_7d": "-0.39%"}
+{"name": "Decred", "symbol": "DCR", "price_dollar": "103.809", "market_cap": "$737.41M", "24h_volume": "$3.40M", "total_vol": "0.02%", "change_24h": "+10.41%", "change_7d": "+7.15%"}
+{"name": "0x", "symbol": "ZRX", "price_dollar": "1.26120", "market_cap": "$671.28M", "24h_volume": "$17.77M", "total_vol": "0.10%", "change_24h": "+2.13%", "change_7d": "-0.16%"}
+{"name": "Steem", "symbol": "STEEM", "price_dollar": "2.5305", "market_cap": "$654.48M", "24h_volume": "$5.02M", "total_vol": "0.03%", "change_24h": "+5.96%", "change_7d": "-5.52%"}
+{"name": "Bytom", "symbol": "BTM", "price_dollar": "0.66286", "market_cap": "$652.55M", "24h_volume": "$62.29M", "total_vol": "0.37%", "change_24h": "+5.45%", "change_7d": "+3.88%"}
+{"name": "Verge", "symbol": "XVG", "price_dollar": "0.040203", "market_cap": "$606.23M", "24h_volume": "$10.98M", "total_vol": "0.06%", "change_24h": "+4.53%", "change_7d": "-2.56%"}
+{"name": "BitShares", "symbol": "BTS", "price_dollar": "0.22349", "market_cap": "$586.15M", "24h_volume": "$18.93M", "total_vol": "0.11%", "change_24h": "+7.74%", "change_7d": "+11.16%"}
+{"name": "Nano", "symbol": "NANO", "price_dollar": "4.1881", "market_cap": "$559.95M", "24h_volume": "$9.69M", "total_vol": "0.06%", "change_24h": "+4.67%", "change_7d": "-3.46%"}
+{"name": "Siacoin", "symbol": "SC", "price_dollar": "0.015530", "market_cap": "$542.97M", "24h_volume": "$9.56M", "total_vol": "0.06%", "change_24h": "+3.25%", "change_7d": "-1.69%"}
+{"name": "Bitcoin Private", "symbol": "BTCP", "price_dollar": "24.900", "market_cap": "$522.55M", "24h_volume": "$675.48K", "total_vol": "0%", "change_24h": "+5.03%", "change_7d": "+11.49%"}
+{"name": "Golem", "symbol": "GNT", "price_dollar": "0.61500", "market_cap": "$520.32M", "24h_volume": "$25.73M", "total_vol": "0.15%", "change_24h": "+0.36%", "change_7d": "+30.79%"}
+{"name": "RChain", "symbol": "RHOC", "price_dollar": "1.43809", "market_cap": "$519.04M", "24h_volume": "$539.04K", "total_vol": "0%", "change_24h": "+4.75%", "change_7d": "+13.90%"}
+{"name": "Maker", "symbol": "MKR", "price_dollar": "779.32", "market_cap": "$483.14M", "24h_volume": "$250.71K", "total_vol": "0%", "change_24h": "+0.95%", "change_7d": "-1.25%"}
+{"name": "Bitcoin Diamond", "symbol": "BCD", "price_dollar": "2.8914", "market_cap": "$474.90M", "24h_volume": "$1.91M", "total_vol": "0.01%", "change_24h": "+2.84%", "change_7d": "-5.16%"}
+{"name": "Populous", "symbol": "PPT", "price_dollar": "12.4731", "market_cap": "$462.42M", "24h_volume": "$5.84M", "total_vol": "0.03%", "change_24h": "+2.88%", "change_7d": "-8.34%"}
+{"name": "Stratis", "symbol": "STRAT", "price_dollar": "4.5556", "market_cap": "$451.56M", "24h_volume": "$4.63M", "total_vol": "0.03%", "change_24h": "+4.28%", "change_7d": "-8.28%"}
+{"name": "Augur", "symbol": "REP", "price_dollar": "39.993", "market_cap": "$437.94M", "24h_volume": "$5.24M", "total_vol": "0.03%", "change_24h": "+5.87%", "change_7d": "-0.65%"}
+{"name": "Waves", "symbol": "WAVES", "price_dollar": "4.2874", "market_cap": "$428.98M", "24h_volume": "$26.32M", "total_vol": "0.15%", "change_24h": "+4.18%", "change_7d": "-4.51%"}
+{"name": "Dogecoin", "symbol": "DOGE", "price_dollar": "0.003557", "market_cap": "$406.22M", "24h_volume": "$5.79M", "total_vol": "0.03%", "change_24h": "+4.76%", "change_7d": "+0.22%"}
+{"name": "IOST", "symbol": "IOST", "price_dollar": "0.047051", "market_cap": "$392.68M", "24h_volume": "$31.55M", "total_vol": "0.19%", "change_24h": "+7.01%", "change_7d": "+17.99%"}
+{"name": "DNotes", "symbol": "NOTE", "price_dollar": "0.046857", "market_cap": "$382.06M", "24h_volume": "$2.21K", "total_vol": "0%", "change_24h": "+29.60%", "change_7d": "+6.4K%"}
+{"name": "DigiByte", "symbol": "DGB", "price_dollar": "0.034976", "market_cap": "$357.69M", "24h_volume": "$2.15M", "total_vol": "0.01%", "change_24h": "+6.14%", "change_7d": "+0.02%"}
+{"name": "Status", "symbol": "SNT", "price_dollar": "0.10297", "market_cap": "$357.55M", "24h_volume": "$23.02M", "total_vol": "0.14%", "change_24h": "+3.68%", "change_7d": "+6.94%"}
+{"name": "Waltonchain", "symbol": "WTC", "price_dollar": "11.3028", "market_cap": "$354.33M", "24h_volume": "$6.45M", "total_vol": "0.04%", "change_24h": "+0.87%", "change_7d": "+3.22%"}
+{"name": "Hshare", "symbol": "HSR", "price_dollar": "8.2396", "market_cap": "$353.95M", "24h_volume": "$44.53M", "total_vol": "0.26%", "change_24h": "+6.05%", "change_7d": "+11.79%"}
+{"name": "Nebulas", "symbol": "NAS", "price_dollar": "7.2800", "market_cap": "$327.84M", "24h_volume": "$33.34M", "total_vol": "0.20%", "change_24h": "+2.36%", "change_7d": "+14.03%"}
+{"name": "Aion", "symbol": "AION", "price_dollar": "2.14670", "market_cap": "$318.41M", "24h_volume": "$3.15M", "total_vol": "0.02%", "change_24h": "+5.23%", "change_7d": "+0.05%"}
+{"name": "Mixin", "symbol": "XIN", "price_dollar": "743.60", "market_cap": "$317.48M", "24h_volume": "$122.36K", "total_vol": "0%", "change_24h": "-0.10%", "change_7d": "-14.65%"}
+{"name": "Loopring", "symbol": "LRC", "price_dollar": "0.52530", "market_cap": "$299.34M", "24h_volume": "$13.40M", "total_vol": "0.08%", "change_24h": "+4.59%", "change_7d": "+2.77%"}
+{"name": "Basic Attention Token", "symbol": "BAT", "price_dollar": "0.24128", "market_cap": "$285.34M", "24h_volume": "$2.23M", "total_vol": "0.01%", "change_24h": "+2.03%", "change_7d": "-1.58%"}
+{"name": "aelf", "symbol": "ELF", "price_dollar": "1.11704", "market_cap": "$285.27M", "24h_volume": "$35.44M", "total_vol": "0.21%", "change_24h": "+6.59%", "change_7d": "+8.74%"}
+{"name": "DigixDAO", "symbol": "DGD", "price_dollar": "137.03", "market_cap": "$276.21M", "24h_volume": "$1.56M", "total_vol": "0.01%", "change_24h": "+4.47%", "change_7d": "-5.32%"}
+{"name": "Komodo", "symbol": "KMD", "price_dollar": "2.6266", "market_cap": "$273.88M", "24h_volume": "$821.14K", "total_vol": "0%", "change_24h": "+4.80%", "change_7d": "+1.28%"}
+{"name": "Ark", "symbol": "ARK", "price_dollar": "2.4053", "market_cap": "$262.46M", "24h_volume": "$1.29M", "total_vol": "0.01%", "change_24h": "+1.43%", "change_7d": "+4.07%"}
+{"name": "Ardor", "symbol": "ARDR", "price_dollar": "0.25676", "market_cap": "$255.82M", "24h_volume": "$2.03M", "total_vol": "0.01%", "change_24h": "+4.56%", "change_7d": "-3.29%"}
+{"name": "Loom Network", "symbol": "LOOM", "price_dollar": "0.38489", "market_cap": "$231.75M", "24h_volume": "$3.95M", "total_vol": "0.02%", "change_24h": "+7.57%", "change_7d": "-2.53%"}
+{"name": "Huobi Token", "symbol": "HT", "price_dollar": "4.65430", "market_cap": "$230.94M", "24h_volume": "$87.34M", "total_vol": "0.51%", "change_24h": "-0.06%", "change_7d": "+20.77%"}
+{"name": "CyberMiles", "symbol": "CMT", "price_dollar": "0.32892", "market_cap": "$228.11M", "24h_volume": "$50.82M", "total_vol": "0.30%", "change_24h": "+3.40%", "change_7d": "-0.38%"}
+{"name": "PIVX", "symbol": "PIVX", "price_dollar": "2.6028", "market_cap": "$221.03M", "24h_volume": "$2.29M", "total_vol": "0.01%", "change_24h": "-53.88%", "change_7d": "+2.05%"}
+{"name": "Dentacoin", "symbol": "DCN", "price_dollar": "0.000663", "market_cap": "$215.15M", "24h_volume": "$135.71K", "total_vol": "0%", "change_24h": "+1.96%", "change_7d": "-0.98%"}
+{"name": "MaidSafeCoin", "symbol": "MAID", "price_dollar": "0.46599", "market_cap": "$214.11M", "24h_volume": "$1.60M", "total_vol": "0.01%", "change_24h": "+3.41%", "change_7d": "+2.86%"}
+{"name": "Gas", "symbol": "GAS", "price_dollar": "21.0947", "market_cap": "$213.90M", "24h_volume": "$5.01M", "total_vol": "0.03%", "change_24h": "+4.54%", "change_7d": "+10.28%"}
+{"name": "Bancor", "symbol": "BNT", "price_dollar": "4.1112", "market_cap": "$207.09M", "24h_volume": "$6.46M", "total_vol": "0.04%", "change_24h": "+4.10%", "change_7d": "+3.21%"}
+{"name": "Kyber Network", "symbol": "KNC", "price_dollar": "1.52827", "market_cap": "$205.83M", "24h_volume": "$25.97M", "total_vol": "0.15%", "change_24h": "+5.56%", "change_7d": "+13.96%"}
+{"name": "Cryptonex", "symbol": "CNX", "price_dollar": "0.0000", "market_cap": "$204.51M", "24h_volume": "$1.48M", "total_vol": "0.01%", "change_24h": "0.00%", "change_7d": "+3.69%"}
+{"name": "Veritaseum", "symbol": "VERI", "price_dollar": "98.665", "market_cap": "$204.47M", "24h_volume": "$927.30K", "total_vol": "0.01%", "change_24h": "+14.32%", "change_7d": "+14.39%"}
+{"name": "MonaCoin", "symbol": "MONA", "price_dollar": "3.3754", "market_cap": "$199.73M", "24h_volume": "$1.14M", "total_vol": "0.01%", "change_24h": "+2.25%", "change_7d": "-0.16%"}
+{"name": "Polymath", "symbol": "POLY", "price_dollar": "0.71269", "market_cap": "$198.38M", "24h_volume": "$2.87M", "total_vol": "0.02%", "change_24h": "+3.90%", "change_7d": "-3.74%"}
+{"name": "GXShares", "symbol": "GXS", "price_dollar": "3.3952", "market_cap": "$190.21M", "24h_volume": "$5.79M", "total_vol": "0.03%", "change_24h": "+1.11%", "change_7d": "-21.67%"}
+{"name": "Syscoin", "symbol": "SYS", "price_dollar": "0.35802", "market_cap": "$189.36M", "24h_volume": "$896.40K", "total_vol": "0.01%", "change_24h": "+6.39%", "change_7d": "-2.93%"}
+{"name": "ReddCoin", "symbol": "RDD", "price_dollar": "0.006448", "market_cap": "$186.58M", "24h_volume": "$2.15M", "total_vol": "0.01%", "change_24h": "+5.36%", "change_7d": "-5.40%"}
+{"name": "Ethos", "symbol": "ETHOS", "price_dollar": "2.4091", "market_cap": "$183.87M", "24h_volume": "$5.79M", "total_vol": "0.03%", "change_24h": "+5.25%", "change_7d": "+6.55%"}
+{"name": "QASH", "symbol": "QASH", "price_dollar": "0.52197", "market_cap": "$182.28M", "24h_volume": "$1.13M", "total_vol": "0.01%", "change_24h": "+4.82%", "change_7d": "-0.01%"}
+{"name": "Skycoin", "symbol": "SKY", "price_dollar": "20.1899", "market_cap": "$181.94M", "24h_volume": "$871.42K", "total_vol": "0.01%", "change_24h": "+1.76%", "change_7d": "-14.08%"}
+{"name": "Fusion", "symbol": "FSN", "price_dollar": "6.3333", "market_cap": "$174.19M", "24h_volume": "$5.19M", "total_vol": "0.03%", "change_24h": "+5.95%", "change_7d": "-9.40%"}
+{"name": "FunFair", "symbol": "FUN", "price_dollar": "0.035139", "market_cap": "$171.54M", "24h_volume": "$2.11M", "total_vol": "0.01%", "change_24h": "+2.96%", "change_7d": "-1.49%"}
+{"name": "Substratum", "symbol": "SUB", "price_dollar": "0.44530", "market_cap": "$169.35M", "24h_volume": "$5.52M", "total_vol": "0.03%", "change_24h": "+4.47%", "change_7d": "+5.35%"}
+{"name": "Nuls", "symbol": "NULS", "price_dollar": "3.9863", "market_cap": "$159.68M", "24h_volume": "$3.22M", "total_vol": "0.02%", "change_24h": "+2.28%", "change_7d": "+3.70%"}
+{"name": "Theta Token", "symbol": "THETA", "price_dollar": "0.24560", "market_cap": "$157.19M", "24h_volume": "$52.32M", "total_vol": "0.31%", "change_24h": "-6.01%", "change_7d": "+46.34%"}
+{"name": "Enigma", "symbol": "ENG", "price_dollar": "2.06445", "market_cap": "$153.11M", "24h_volume": "$4.91M", "total_vol": "0.03%", "change_24h": "+5.10%", "change_7d": "-0.98%"}
+{"name": "MyBit Token", "symbol": "MYB", "price_dollar": "2.25670", "market_cap": "$152.53M", "24h_volume": "$514.34K", "total_vol": "0%", "change_24h": "+2.77%", "change_7d": "+21.68%"}
+{"name": "Nexus", "symbol": "NXS", "price_dollar": "2.6393", "market_cap": "$151.34M", "24h_volume": "$1.01M", "total_vol": "0.01%", "change_24h": "+11.45%", "change_7d": "+32.23%"}
+{"name": "Dragonchain", "symbol": "DRGN", "price_dollar": "0.62840", "market_cap": "$150.50M", "24h_volume": "$786.05K", "total_vol": "0%", "change_24h": "+1.05%", "change_7d": "-0.35%"}
+{"name": "Electroneum", "symbol": "ETN", "price_dollar": "0.020756", "market_cap": "$148.96M", "24h_volume": "$338.16K", "total_vol": "0%", "change_24h": "+0.91%", "change_7d": "-2.02%"}
+{"name": "Kin", "symbol": "KIN", "price_dollar": "0.000197", "market_cap": "$146.58M", "24h_volume": "$509.97K", "total_vol": "0%", "change_24h": "+4.36%", "change_7d": "-4.74%"}
